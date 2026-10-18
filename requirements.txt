@@ -1,0 +1,9 @@
+# Versions are not pinned; the project was run in Google Colab.
+numpy
+pandas
+scikit-learn
+xgboost
+matplotlib
+torch
+torch-geometric
+jupyter
